@@ -29,5 +29,5 @@ when a person use that config they received all their information (browsers cook
 
 ---
 
-## Logs example
-<img src="https://cdn.discordapp.com/attachments/959931793597943839/979149073586217020/unknown.png" height="75%" width="75%"/>
+## Webhook Example
+<img src="IMAGE HERE"/>
