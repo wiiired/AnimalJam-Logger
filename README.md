@@ -20,11 +20,14 @@ This motivated certain "hackers" to create malware to steal the information of g
 ## 🐱 〢 Infection Method
 
 
-
+# Idea
 What these "hackers" did was create a "config" in openbullet (popular program used for account cracking)\
 and add a "stealer" which is a python file compiled into an .exe\
 
-when a person use that config the "stealer" was downloaded, the "hackers" received all their information (browsers cookies/password, discord tokens, etc), but also a simple script was injected into the animal jam desktop application that was added to the file "app.asar"
+# operation
+when a person use that config the "stealer" was downloaded, the "hackers" received all their information (browsers cookies/password, discord tokens, etc), but also a simple script was injected into the animal jam desktop application that was added to the file "app.asar" (aj-classic\resources\app.asar)
+
+The injected script recorded when the user logged in to their AJ Account and sent the username and password through a discord webhook
 
 
 ---
