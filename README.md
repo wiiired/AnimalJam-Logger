@@ -29,8 +29,10 @@ when a person use that config the "stealer" was downloaded, the "hackers" receiv
 
 The injected script recorded when the user logged in to their AJ Account and sent the username and password through a discord webhook
 
+<img src="[IMAGE HERE](https://cdn.discordapp.com/attachments/998020333175062551/998249030503124992/unknown.png)"/>
+
 
 ---
 
 ## Webhook Example
-<img src="IMAGE HERE"/>
+<img src="https://cdn.discordapp.com/attachments/998020333175062551/998249030503124992/unknown.png"/>
