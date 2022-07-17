@@ -11,7 +11,7 @@ Animal Jam Classic, formerly known as Animal Jam, is a massively multiplayer onl
 In this game the trading is a very important fact because there are high value items, some can cost more than $100\
 this caused the game to be filled with scammers, but the straw that spilled the spleen was when in November 2020 the game database was leaked\
 This attracted crackers who wanted to get money by logging into these accounts and selling the most worthwhile items.\
-This motivated certain "hackers" to create malware to steal the information of game users, they did this in the following way\
+This motivated certain "hackers" to create malware to steal the information of game users, they did this in the following way
 
 ---
 
